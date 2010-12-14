@@ -1,0 +1,5 @@
+library uw-process
+rewrite all Clock/*
+
+clock
+

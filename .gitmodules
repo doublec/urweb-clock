@@ -1,0 +1,3 @@
+[submodule "uw-process"]
+	path = uw-process
+	url = git://gitorious.org/some-urweb-utility-libraries/uw-process.git
