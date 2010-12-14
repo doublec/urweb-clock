@@ -2,10 +2,10 @@
 
 This is simple example of using Ur/Web and Marc Weber's process execution library. The Ur/Web application displays a web page that displays the server's time updated every second or so by executing 'date' on the server.
 
-Uses:
+Requires:
 
-Ur/Web:     http://www.impredicative.com/ur/
-uw-process: http://gitorious.org/some-urweb-utility-libraries/uw-process
+* Ur/Web - http://www.impredicative.com/ur/
+* uw-process - http://gitorious.org/some-urweb-utility-libraries/uw-process
 
 To build:
 
